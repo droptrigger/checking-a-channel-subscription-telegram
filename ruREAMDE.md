@@ -6,7 +6,7 @@
 Простой Telegram-бот, который работает только после подписки на все необходимые каналы  
 Мой Телеграм-канал - [Клик](https://t.me/CreateTrigger)
 
-<img src='https://github.com/user-attachments/assets/df9ecaa0-cd4b-40bd-b720-291d2f44c3e8' width=70%/>
+<img src='https://github.com/user-attachments/assets/df9ecaa0-cd4b-40bd-b720-291d2f44c3e8' width=60%/>
 
 </div>
 
@@ -32,12 +32,12 @@ pip install aiogram
 
 ### 3. Переходим в https://t.me/BotFather и создаем бота. Разрешаем приглашать его в каналы (Должно написать`enabled`).
 <div align="center">
-<img src='https://github.com/user-attachments/assets/d82aff71-41dd-43c0-a41e-5344f8a6b404' width=70%/>
+<img src='https://github.com/user-attachments/assets/d82aff71-41dd-43c0-a41e-5344f8a6b404' width=60%/>
 </div>
 
 ### 4. В том же BotFather копируем токен API.
 <div align="center">
-<img src="https://github.com/user-attachments/assets/16d2b471-2818-49c9-a248-4a8e77b37685" width=60% height=80%>
+<img src="https://github.com/user-attachments/assets/16d2b471-2818-49c9-a248-4a8e77b37685" width=60% height=70%>
 </div>
 
 ### 5. В [config](bot/data/config.py) вписываем этот токен вместо пропуска.
