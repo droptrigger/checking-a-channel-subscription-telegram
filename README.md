@@ -6,7 +6,7 @@
 Easy Telegram bot that __works only after subscribing__ to all the necessary channels  
 My TG channel - [Click](https://t.me/CreateTrigger)
 
-<img src='https://github.com/user-attachments/assets/0e89d09a-3298-42df-856c-380e512f0ec9' width=70%/>
+<img src='https://github.com/user-attachments/assets/0e89d09a-3298-42df-856c-380e512f0ec9' width=50%/>
 </div>
 
 ## 📖 Description
@@ -31,12 +31,12 @@ pip install aiogram
 
 ### 3. Go to https://t.me/BotFather and we create a bot. We allow you to invite him to the channels (It should be written `enabled`).
 <div align="center">
-<img src='https://github.com/user-attachments/assets/d82aff71-41dd-43c0-a41e-5344f8a6b404' width=70%/>
+<img src='https://github.com/user-attachments/assets/d82aff71-41dd-43c0-a41e-5344f8a6b404' width=50%/>
 </div>
 
 ### 4. In the same BotFather, we copy the API token.
 <div align="center">
-<img src="https://github.com/user-attachments/assets/16d2b471-2818-49c9-a248-4a8e77b37685" width=60% height=80%>
+<img src="https://github.com/user-attachments/assets/16d2b471-2818-49c9-a248-4a8e77b37685" width=60% height=50%>
 </div>
 
 ### 5. In [config](bot/data/config.py ) enter this token instead of a pass.
